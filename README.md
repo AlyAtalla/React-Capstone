@@ -28,7 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Bookstore <a name="about-project"></a>
+# 📖 react-capstone <a name="about-project"></a>
 
 **react capstone**  react capstone is a website for all fans of Marvel charachters and comics. It is a Single Page App.
 
