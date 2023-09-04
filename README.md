@@ -135,8 +135,8 @@ npx jest path/to/test-file.test.js
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Add functionality**
-- [ ] **Add calculator page**
-- [ ] **Add quotes page**
+- [ ] **Add charachter page**
+- [ ] **fetch data from api**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
