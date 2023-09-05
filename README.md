@@ -167,6 +167,7 @@ If you like this project give it a⭐️
 
 - Microverse 
 - my coding partner Shah Zaman
+-credit to Nelson Sakwa the author of the original design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
