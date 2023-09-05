@@ -12,11 +12,6 @@
     "ecmaVersion": 2022,
     "sourceType": "module"
   },
-  "extends": [
-    "airbnb",
-    "plugin:react/recommended"
-  ],
-  "plugins": ["react"],
   "rules": {
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
     "import/prefer-default-export": "off"
