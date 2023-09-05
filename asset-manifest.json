@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-capstone/static/css/main.065211a8.css",
+    "main.js": "/react-capstone/static/js/main.c9c9abec.js",
+    "static/media/marvelImage.jpg": "/react-capstone/static/media/marvelImage.4e2717f9d6b56bf999a7.jpg",
+    "static/media/panoramicAv.jpg": "/react-capstone/static/media/panoramicAv.423b51ae15659bcd74d8.jpg",
+    "static/media/AvengeroRegular-zvgl.ttf": "/react-capstone/static/media/AvengeroRegular-zvgl.baa8fa47156dbd6a98fa.ttf",
+    "index.html": "/react-capstone/index.html",
+    "main.065211a8.css.map": "/react-capstone/static/css/main.065211a8.css.map",
+    "main.c9c9abec.js.map": "/react-capstone/static/js/main.c9c9abec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065211a8.css",
+    "static/js/main.c9c9abec.js"
+  ]
+}
